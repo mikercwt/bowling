@@ -56,5 +56,7 @@ public class BowlingScoreTest
 
         int score = bowlingScore.sumGame(frameResults);
         assertEquals("Score equals 75",75,score);
+
+        // blah blah blah !!!
     }
 }
